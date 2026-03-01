@@ -27,7 +27,7 @@ performing exploratory data analysis, and deriving meaningful insights.
 - Basics of Machine Learning
 
 ## Connect with Me
-- LinkedIn: linkedin.com/in/tharak-nath-1356a6362
+- LinkedIn: https://www.linkedin.com/in/tharak-nath-1356a6362/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLMYIHsxuRGuacd1Ehgvo8g%3D%3D
 - GitHub: https://github.com/tharaknath755-gif
 
 ## Goals
