@@ -20,7 +20,7 @@ performing exploratory data analysis, and deriving meaningful insights.
 📊 **Student Performance Analysis**  
 - Analyzed student academic performance using Python
 - Performed data cleaning, EDA, and visualization  
-🔗 GitHub: https://github.com/your-username/Student-Performance-Analysis
+🔗 GitHub: https://github.com/tharaknath755-gif/Student-Performance-Analysis
 
 ## Currently Learning
 - Data Visualization techniques
