@@ -28,7 +28,7 @@ performing exploratory data analysis, and deriving meaningful insights.
 
 ## Connect with Me
 - LinkedIn: linkedin.com/in/tharak-nath-1356a6362
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/tharaknath755-gif/Tharak/tree/main
 
 ## Goals
 - Build strong foundations in Data Science
