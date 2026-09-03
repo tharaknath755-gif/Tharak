@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Tharak
 
-🎓 1st Year Computer Science Engineering Student  
+🎓 2st Year Computer Science Engineering Student  
 📊 Aspiring Data Scientist  
 🐍 Currently learning Python & Data Analysis
 
@@ -24,6 +24,7 @@ performing exploratory data analysis, and deriving meaningful insights.
 
 ## Currently Learning
 - Data Visualization techniques
+- IBM Data Science Professional Certificate 
 - Basics of Machine Learning
 
 ## Connect with Me
